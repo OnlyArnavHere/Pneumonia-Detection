@@ -14,7 +14,7 @@ It includes:
 Hugging Face Spaces URL: `TBD`
 
 ## Results
-The training/evaluation pipeline is fully implemented, but results depend on Kaggle dataset authentication and local training completion.
+The training/evaluation pipeline is fully implemented, but results depend on dataset authentication and local training completion.
 
 | Model | Accuracy | Precision | Recall | F1 | AUC-ROC |
 |---|---:|---:|---:|---:|---:|
