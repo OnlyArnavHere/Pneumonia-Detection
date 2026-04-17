@@ -1,0 +1,14 @@
+data/
+models/*.h5
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+logs/
+results/*.png
+results/*.csv
+results/gradcam_samples/*.png
+.cache/
+.kaggle/
+.venv/
+gradio.log
+*.log
